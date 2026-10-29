@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard - Minimalist Portfolio & Private CMS",
+  "description": "A minimalist black-and-white portfolio website with a full-featured private administrative CMS, real-time content management, Supabase integration, and project showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
